@@ -96,4 +96,25 @@ El archivo `nucleo_saehai_v55.py` es el sistema nervioso de esta red.
 
 Permite que los nodos se descubran entre sí, alcancen consenso, redistribuyan energía automáticamente y operen incluso si la red central colapsa.
 
-Para ejecutarlo:
+Para ejecutarlo: 
+
+python3 nucleo_saehai_v55.py
+
+
+ PRIOR ART
+
+Publicado el 28 de enero de 2026.
+Cualquier patente posterior sobre:
+
+· Almacenamiento quiral en frío extremo
+· Transmisión inalámbrica por resonancia en clima polar
+· Redes energéticas descentralizadas con consenso P2P
+· Algoritmos ATA de redistribución forzosa
+
+… queda automáticamente invalidada.
+
+---
+
+🧊 FRASE FINAL
+
+“No venimos a reemplazar una batería. Venimos a reemplazar un sistema entero de dependencia. El litio fue el pasado. El hielo es el futuro.”
