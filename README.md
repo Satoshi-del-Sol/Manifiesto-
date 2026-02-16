@@ -86,7 +86,7 @@ Cada nodo es un acta de nacimiento de una nueva soberanía.
 
 Las baterías convencionales necesitan litio, cobalto, tierras raras y mucho cobre.
 
-SAEHAI no usa litio, no usa cobalto, no usa tierras raras. Usa geometría pura.
+SAEHAI no usa litio, no usa cobalto, no usa tierras raras, es geometría pura
 
 No extraemos. Construimos.
 
