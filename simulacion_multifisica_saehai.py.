@@ -1092,4 +1092,4 @@ if __name__ == "__main__":
     if opcion == "2":
         interfaz_grafica_simple()
     else:
-        ejecutar_simulacion_completa()
+        ejecutar_simulacion_completa()x
