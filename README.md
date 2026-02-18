@@ -1,4 +1,8 @@
-# ❄️ SAEHAI III (v11.5): SOBERANÍA TECNOLÓGICA CHILENA
+
+![Imagen del Proyecto](1769641807698.png)
+#
+
+❄️ SAEHAI III (v11.5): SOBERANÍA TECNOLÓGICA CHILENA
 ## *Arquitectura de Almacenamiento Mecánico Criogénico para el Territorio Antártico*
 
 ---
