@@ -7,7 +7,7 @@
 
 **De mi consideración:**
 
-Como investigador y desarrollador chileno, me dirijo a ustedes para presentar el proyecto **SAEHAI III (v11.5)**. Mi objetivo es que esta tecnología, diseñada para romper la dependencia de insumos extranjeros y combustibles fósiles, sea implementada y liderada prioritariamente por nuestro país en el **Territorio Chileno Antártico**.
+Como investigador y desarrollador chileno, me dirijo a ustedes para presentar el proyecto **SAEHAI III (v11.5)**. Mi objetivo es  sea implementada y liderada prioritariamente por nuestro país en el **Territorio Chileno Antártico**.
 
 ---
 
