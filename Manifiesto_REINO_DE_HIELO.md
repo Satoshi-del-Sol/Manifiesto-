@@ -82,7 +82,7 @@ Viene a **reconocer la soberanía de hecho** que ellas ya ejercen mediante déca
 
 Cada base existente puede, si así lo decide, integrarse voluntariamente al Reino, manteniendo su identidad y sumando su experiencia al acervo común.
 
-Quien no desee integrarse, conservará su estatus actual, siempre que respete los principios fundamentales del Reino.
+Quien no desee integrarse, conservará su estatus actual, sin asedio.
 
 ---
 
