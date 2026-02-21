@@ -94,7 +94,7 @@ En sus silos se almacenará la energía que impulse las primeras naves soberanas
 En sus laboratorios se diseñarán los protocolos de convivencia que llevaremos a la Luna, a Marte, a las lunas de Júpiter.
 
 Cada Nodo SAEHAI en la Antártica es un **embrión de colonia espacial**.  
-Cada Wattcoin generado es un **pasaje hacia el exterior**.
+**un pasaje hacia el espacio exterior**.
 
 La humanidad no saldrá al espacio dividida por fronteras.  
 Saldrá unida por un propósito: **no repetir los errores de su cuna**.
