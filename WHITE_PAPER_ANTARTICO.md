@@ -20,7 +20,7 @@ El corazón técnico del proyecto es el Silo basado en **LSHM (Metamateriales El
 El **Wattcoin** no es una criptomoneda especulativa; es un anti Bitcoin; es un **Activo de Energía Real (REA)**. 
 
 * **Proof of Power (PoP):** El minado ocurre mediante la generación y almacenamiento físico de energía en un Silo conectado. 1 WAC = 1 kWh disponible.
-* **Algoritmo ATA (Asignación Transaccional Autónoma):** Permite el intercambio de vatios entre nodos soberanos. Si un Silo en la Antártica tiene excedente, puede transaccionar créditos de energía con un nodo en el desierto a través de la red satelital.
+* **Algoritmo ATA (Asignación Transaccional Autónoma):** Permite el intercambio de vatios entre nodos soberanos. Si un Silo en la Antártica tiene excedente, puede transaccionar créditos de energía con un nodo a través de la red satelital.
 
 ## 4. EL SILO-GAME: GAMIFICACIÓN DE LA LOGÍSTICA
 Para financiar y desplegar la infraestructura, el **Silo-Game** actúa como un simulador de estrategia en tiempo real que tiene efectos en el mundo físico.
@@ -33,7 +33,7 @@ La Antártica es el banco de pruebas final. Proponemos la instalación de la **R
 2.  **Bases Soberanas:** Creación de módulos habitacionales que utilizan el calor residual del almacenamiento mecánico para mantener temperaturas de confort sin consumo extra.
 
 ## 6. CONCLUSIÓN: EL SALTO A LAS ESTRELLAS
-El SAEHAI es la base de la **Liberación Espacial (LE)**. Al dominar el almacenamiento de energía mecánica densa y la economía del Wattcoin, la humanidad deja de ser una especie parasitaria del planeta para convertirse en una **Sembradora de Vida**. 
+El SAEHAI es la base de la **Liberación Espacial (LE)**. Al dominar el almacenamiento de energía mecánica densa y la economía del anti Bitcoin (Wattcoin), la humanidad deja de ser una especie parasitaria del planeta para convertirse en una **Sembradora de Vida**. 
 
 El primer prototipo funcional en los Montes Transantárticos será la prueba de concepto necesaria para el primer Silo en Marte.
 
