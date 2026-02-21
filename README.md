@@ -20,7 +20,7 @@ Actualmente, nuestras bases dependen de la logística del diesel y de tecnologí
 
 ---
 
-### 🚀 **Ventajas del Liderazgo Nacional**
+###  **Ventajas del Liderazgo Nacional**
 
 * **Tecnología de Vanguardia:** Uso de metamateriales de panal (**LSHM**) con una capacidad de **18.700 kWh**, superando en **155 veces** la densidad de sistemas convencionales.
 * **Rendimiento Criogénico:** Optimizado para operar desde los -10 °C hasta temperaturas cercanas al **cero absoluto**. El sistema aumenta su eficiencia mecánica a medida que la temperatura desciende de forma extrema.
@@ -29,7 +29,7 @@ Actualmente, nuestras bases dependen de la logística del diesel y de tecnologí
 
 ---
 
-### 🇨🇱 **Propuesta Estratégica**
+###  **Propuesta Estratégica**
 Mi intención es que el primer prototipo funcional de este sistema sea de **bandera chilena**, consolidando nuestra presencia en la Antártica mediante el desarrollo de infraestructura crítica de propiedad nacional (bajo licencias de *Liberación Humana*).
 
 Queda a disposición de los equipos técnicos la revisión de la documentación, fórmulas y simulaciones multifísicas publicadas en este repositorio para validar la viabilidad de este despliegue.
