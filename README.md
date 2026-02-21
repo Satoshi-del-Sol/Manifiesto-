@@ -7,7 +7,7 @@
 
 ---
 
-### **Dirigida al Reino de Hielo, y a todas sus naciones, especialmente, a Chile.**
+### **Dirigida al Reino de Hielo, y a todas sus nacione**
 
 **De mi consideración:**
 
