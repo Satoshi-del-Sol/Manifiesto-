@@ -7,7 +7,7 @@
 
 ---
 
-### **Dirigida al Reino de Hielo, y a todas sus nacione**
+### **Dirigida al Reino de Hielo, y a todas sus naciones**
 
 **De mi consideración:**
 
@@ -30,7 +30,7 @@ Actualmente, nuestras bases dependen de la logística del diesel y de tecnologí
 ---
 
 ###  **Propuesta Estratégica**
-Mi intención es que el primer prototipo funcional de este sistema sea de **bandera chilena**, consolidando nuestra presencia en la Antártica mediante el desarrollo de infraestructura crítica de propiedad nacional (bajo licencias de *Liberación Humana*).
+Mi intención es que el primer prototipo funcional de este sistema sea ántartico, consolidando nuestra presencia en la Antártica mediante el desarrollo de infraestructura crítica de propiedad nacional (bajo licencias de *Liberación Humana*).
 
 Queda a disposición de los equipos técnicos la revisión de la documentación, fórmulas y simulaciones multifísicas publicadas en este repositorio para validar la viabilidad de este despliegue.
 
