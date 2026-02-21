@@ -17,7 +17,7 @@ El corazón técnico del proyecto es el Silo basado en **LSHM (Metamateriales El
 * **Salida Nativa:** Entrega directa en DC 220v, optimizada para hardware de alta eficiencia.
 
 ## 3. WATTCOIN (WAC) & PROTOCOLO ATA
-El **Wattcoin** no es una criptomoneda especulativa; es un **Activo de Energía Real (REA)**. 
+El **Wattcoin** no es una criptomoneda especulativa; es un anti Bitcoin; es un **Activo de Energía Real (REA)**. 
 
 * **Proof of Power (PoP):** El minado ocurre mediante la generación y almacenamiento físico de energía en un Silo conectado. 1 WAC = 1 kWh disponible.
 * **Algoritmo ATA (Asignación Transaccional Autónoma):** Permite el intercambio de vatios entre nodos soberanos. Si un Silo en la Antártica tiene excedente, puede transaccionar créditos de energía con un nodo en el desierto a través de la red satelital.
