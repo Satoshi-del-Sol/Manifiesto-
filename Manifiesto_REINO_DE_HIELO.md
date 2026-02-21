@@ -48,8 +48,6 @@ Todo Nodo SAEHAI instalado en el territorio genera energía suficiente para sost
 El excedente no es ganancia, sino **abundancia compartida**.  
 Fluye hacia quien lo necesita, no hacia quien más tiene.
 
-El Wattcoin no es una moneda de cambio.  
-Es un **certificado de soberanía energética**.
 
 Queda prohibido, para siempre, usar la energía como instrumento de presión, bloqueo o sometimiento de pueblo alguno.
 
