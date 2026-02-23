@@ -1,6 +1,6 @@
 
 
-"""
+""
 SAEHAI II - SIMULACIÓN MULTIFÍSICA COMPLETA
 Implementación con FEniCS (FEM), SciPy (control) y Matplotlib (visualización)
 """
