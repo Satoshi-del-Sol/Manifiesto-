@@ -13,7 +13,7 @@ El corazón técnico del proyecto es el Silo basado en **LSHM (Metamateriales El
 
 * **Mecánica de Panal:** Utiliza geometrías fractales para almacenar energía potencial elástica a nivel molecular.
 * **Factor 155x:** Supera la densidad de las baterías de iones de litio en un factor de 155, eliminando el riesgo de incendio y la degradación por frío extremo.
-* **Resiliencia Térmica:** Operatividad garantizada entre **-100°C y 150°C**. Ideal para los Montes Transantárticos y el espacio profundo.
+* **Resiliencia Térmica:** Operatividad garantizada entre **-cerca del cero absoluto y -10°C**. Ideal para los Montes Transantárticos y el espacio profundo.
 * **Salida Nativa:** Entrega directa en DC 220v, optimizada para hardware de alta eficiencia.
 
 ## 3. WATTCOIN (WAC) & PROTOCOLO ATA
