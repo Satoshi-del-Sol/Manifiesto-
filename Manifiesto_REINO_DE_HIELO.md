@@ -1,3 +1,8 @@
+Copyright (C) 2026 Kiöv
+Project: SAEHAI III v11.5 - Ice Kingdom Sovereignty Protocol
+Author: Kiöv (Conceptual Architect)
+Registration: SE:0000000001
+
 # Manifiesto del Reino de Hielo
 ## *Hacia una Civilización Interestelar bajo la Anarquía Verde*
 
